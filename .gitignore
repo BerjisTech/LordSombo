@@ -1,5 +1,5 @@
 # BEGIN: /F:/Sombo/Plugins/LordSombo/.gitignore
 /Content/Assets
 
-/Content/Blueprints/Vehicles
+/Content/Blueprints/Vehicles/Mesh
 # END: /F:/Sombo/Plugins/LordSombo/.gitignore
