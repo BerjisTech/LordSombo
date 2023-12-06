@@ -1,6 +1,5 @@
 # BEGIN: /F:/Sombo/Plugins/LordSombo/.gitignore
 /Content/Assets
-/Content/Blueprints/Components
 /Content/Blueprints/Functions
 /Content/Blueprints/FX
 /Content/Blueprints/Input
