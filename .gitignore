@@ -1,3 +1,7 @@
 # BEGIN: /F:/Sombo/Plugins/LordSombo/.gitignore
-/Content/Assets
+/Content/Assets/Audio
+/Content/Assets/Icons
+/Content/Assets/Images
+/Content/Assets/Materials
+/Content/Assets/StaticMesh
 # END: /F:/Sombo/Plugins/LordSombo/.gitignore
