@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LordSombo",
+	"Description": "All you need to make your game plyable",
+	"Category": "Game Design",
+	"CreatedBy": "Lord Sombo",
+	"CreatedByURL": "https://berjis.tech/lordsombo",
+	"DocsURL": "https://berjis.tech/lordsombo/docs",
+	"MarketplaceURL": "",
+	"SupportURL": "https://berjis.tech/lordsombo/support",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LordSombo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

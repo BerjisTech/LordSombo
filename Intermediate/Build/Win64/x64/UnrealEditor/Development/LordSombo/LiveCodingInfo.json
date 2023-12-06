@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LordSombo.cpp.obj": [
+			"LordSombo.cpp.obj"
+		]
+	}
+}
