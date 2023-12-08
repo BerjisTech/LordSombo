@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\sombo\\plugins\\lordsombo\\intermediate\\build\\win64\\x64\\unrealgame\\development\\lordsombo\\module.lordsombo.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\sombo\\intermediate\\build\\win64\\x64\\sombo\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\sombo\\plugins\\lordsombo\\intermediate\\build\\win64\\x64\\unrealgame\\development\\lordsombo\\definitions.lordsombo.h",
+            "f:\\sombo\\plugins\\lordsombo\\source\\lordsombo\\private\\lordsombo.cpp",
+            "f:\\sombo\\plugins\\lordsombo\\source\\lordsombo\\public\\lordsombo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
